@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = f.j.p.hahn@web.de
+	name = Florian Hahn
